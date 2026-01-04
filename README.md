@@ -1,4 +1,4 @@
-# 35 Must-Know NoSQL Interview Questions in 2025
+# 35 Must-Know NoSQL Interview Questions in 2026
 
 <div>
 <p align="center">
